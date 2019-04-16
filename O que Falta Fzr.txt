@@ -1,0 +1,6 @@
+O que esta faltando no jogo:
+
+- Padronizar o design de tela, para ficar semelhante as outras telas.
+- finalizar a logica para que quando alguem clicar nas duas cartas ele entre no metodo de maneira correta.
+- tela de game over
+- pontuação
